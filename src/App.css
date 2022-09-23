@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.proaduct{
+  background-color: blue;
+  padding: 50px;
+  border: 1px solid #61dafb;
+  margin: 15px;
+  border-radius: 20px;
+  color: #fff;
+}
